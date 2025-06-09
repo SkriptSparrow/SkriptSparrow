@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Привет! Меня зовут Александра!
 
-<!--
-**SkriptSparrow/SkriptSparrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150">
+</p>
 
-Here are some ideas to get you started:
+Я **разработчик**, изучаю Python 🐍 и веб-разработку. Мне нравится создавать удобные, красивые и понятные приложения.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Чем я сейчас занимаюсь?
+
+* 🔥 Изучаю Python, Flask, Django
+* 🎨 Погружаюсь в мир веб-дизайна и UX/UI
+* 🗃️ Работаю над созданием своего сайта-каталога
+* 📚 Развиваюсь в области аналитики данных и SQL
+
+---
+
+### 🛠️ Мой стек технологий:
+
+| Python | Flask | Django | SQL | HTML | CSS | JavaScript | Git |
+| ------ | ----- | ------ | --- | ---- | --- | ---------- | --- |
+| 🐍     | 🌶️   | 🚀     | 📊  | 📜   | 🎨 | ⚡        | 🌳  |
+
+---
+
+### 📫 Как со мной связаться:
+
+* **Telegram:** [@your\_telegram](https://t.me/@Alex_Gicheva)
+* **Email:** [youremail@example.com](mailto:alexgicheva@gmail.com)
+
+---
+
+### 🌟 Мои первые проекты:
+
+* [Password Generator](https://github.com/SkriptSparrow/PasswordGenerator) – Это генератор паролей.
+* [Harry Potter Quiz Bot](https://github.com/SkriptSparrow/HarryPotterQuizBot) – Это телеграмбот-квиз по Гарри Поттеру.
+
+---
+
+✨ **Спасибо за визит! Приятного просмотра моего GitHub!** ✨
