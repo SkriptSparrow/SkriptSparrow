@@ -25,8 +25,8 @@
 
 ### 📫 Как со мной связаться:
 
-* **Telegram:** [@your\_telegram](https://t.me/@Alex_Gicheva)
-* **Email:** [youremail@example.com](mailto:alexgicheva@gmail.com)
+* **Telegram:** [@Alex_Gicheva](https://t.me/@Alex_Gicheva)
+* **Email:** [alexgicheva@gmail.com](mailto:alexgicheva@gmail.com)
 
 ---
 
