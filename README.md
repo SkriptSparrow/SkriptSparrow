@@ -21,6 +21,12 @@ I'm a **developer** learning Python 🐍 and web development. I enjoy creating c
 
 ---
 
+### 📊 GitHub Contributions Calendar
+
+![3D Contributions](./profile-3d-contrib/profile-green-animate.svg)
+
+---
+
 ### 📫 How to contact me:
 
 * **Telegram:** [@Alex_Gicheva](https://t.me/@Alex_Gicheva)
