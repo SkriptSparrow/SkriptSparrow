@@ -17,9 +17,7 @@ I'm a **developer** learning Python 🐍 and web development. I enjoy creating c
 
 ### 🛠️ My tech stack:
 
-| Python | Flask | Django | SQL | HTML | CSS | JavaScript | Git | Flet |
-| ------ | ----- | ------ | --- | ---- | --- | ---------- | --- | ---- |
-| 🐍     | 🌶️   | 🚀     | 📊  | 📜   | 🎨 |    ⚡     | 🌳  | 🎛️ |
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,pycharm,git,flask,linux,obsidian,postgres,sqlite,linkedin,gmail,discord,ai)](https://skillicons.dev)
 
 ---
 
